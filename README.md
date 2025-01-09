@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Perl related to hash iteration order.  Perl hashes do not inherently maintain insertion order.  The provided code shows examples of iteration with and without sorting keys to highlight this behavior. The solution demonstrates a method to maintain insertion order if needed.
